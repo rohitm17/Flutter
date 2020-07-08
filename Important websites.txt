@@ -1,0 +1,22 @@
+Draw diagrams:
+
+	https://app.diagrams.net/
+
+App Icon:
+
+	https://appicon.co/
+	https://www.materialpalette.com/colors
+
+Resources for pics and icons:
+
+	https://www.canva.com/en_in/
+	https://www.vecteezy.com/
+	https://icons8.com/icons
+
+Github repo:
+
+	https://github.com/londonappbrewery/Flutter-Course-Resources
+
+Documentation:
+
+	https://flutter.dev/docs/get-started/codelab
