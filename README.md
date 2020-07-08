@@ -12,3 +12,13 @@ DAY 1
 DAY 2
 
   ![day2](https://github.com/rohitm17/Flutter/blob/master/screenshots/Flutter_day2.png)
+  
+  Tree Structure:
+  
+  ![day2.2](https://github.com/rohitm17/Flutter/blob/master/screenshots/Flutter_day2-2.png)
+  
+DAY 3
+
+  ![day3](https://github.com/rohitm17/Flutter/blob/master/screenshots/Flutter_day3.png)
+  
+  
