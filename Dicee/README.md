@@ -17,10 +17,18 @@ Tree:
 ![](https://github.com/rohitm17/Flutter/blob/master/Dicee/final_tree.png)
 
 
+
+Icon :
+
+![](https://github.com/rohitm17/Flutter/blob/master/Dicee/ic_launcher-web.png)
+
+
 [CODE](https://github.com/rohitm17/Flutter/blob/master/Dicee/main.dart)
 
 
 [YAML FILE](https://github.com/rohitm17/Flutter/blob/master/Dicee/pubspec.yaml)
+
+
 
 
 Output:
