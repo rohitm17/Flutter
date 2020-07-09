@@ -31,3 +31,7 @@ Final:
 
 ![f](https://github.com/rohitm17/Flutter/blob/master/magic-8-ball/final.jpeg)
 
+
+Goal Achieved:
+
+![](https://github.com/rohitm17/Flutter/blob/master/magic-8-ball/8-ball-flutter-gif.gif)
