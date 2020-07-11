@@ -35,6 +35,14 @@ DAY 5
   Tree Structure:
 
  ![day5](https://github.com/rohitm17/Flutter/blob/master/screenshots/Flutter_day5_tree.png)
+ 
+DAY 6
+
+  ![day6](https://github.com/rohitm17/Flutter/blob/master/screenshots/Flutter_day6.png) 
+  
+DAY 7
+
+  ![day7](https://github.com/rohitm17/Flutter/blob/master/screenshots/Flutter_day7.png) 
   
     
   
