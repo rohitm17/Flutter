@@ -1,8 +1,8 @@
-## Flutter
+<h1>Flutter</h1>
 
 <pre>
 Basics of flutter development.
-X days of CODE Challenge.
+10 days of Flutter Challenge.
 </pre>
 
 DAY 1
