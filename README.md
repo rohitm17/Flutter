@@ -59,3 +59,39 @@ Note: This is <i>.yaml</i> file so use double spaces in indentation and use '#' 
       - family: FreckleFace
         fonts:
           - asset: fonts/FreckleFace-Regular.ttf
+
+
+
+<h2>Let's look at some basic widgets:</h2>
+
+1. Text Widget
+
+
+     <pre>
+          Text(
+                'WELCOME TO TEXT WIDGET',
+                textAlign: TextAlign.center,
+                style: TextStyle(
+                  fontFamily: 'FreckleFace',
+                  fontWeight: FontWeight.bold,
+                  color: Colors.white,
+                  fontSize: 26.0,
+                ),
+              ),
+      </pre>        
+
+2. Container
+
+          Container(
+                      margin: const EdgeInsets.all(10.0),
+                      padding: const EdgeInsets.all(8.0),
+                      decoration: BoxDecoration(
+                        color: Colors.white,
+                        borderRadius: BorderRadius.circular(20.0),
+                        border: Border.all(
+                          width: 4,
+                          color: Colors.grey.shade500,
+                        ),
+                      ),
+                      child:Text('IT Management \n 100,000.00'),
+                      )
