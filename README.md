@@ -4,60 +4,58 @@
 
 <pre>
 Basics of flutter development.
-10 days of Flutter Challenge.
+
 </pre>
 
-DAY 1
+     
+  
+<h2>How to maintain <i>pubspec.yaml</i> file:</h2>
 
-  ![day1](https://github.com/rohitm17/Flutter/blob/master/screenshots/Flutter_day1.png)
+Note: This is <i>.yaml</i> file so use double spaces in indentation and use '#' to comment a line.
 
-DAY 2
+    name: name_of_app
+    description: A new Flutter application.
+    # The following line prevents the package from being accidentally published to
+    # pub.dev using `pub publish`. This is preferred for private packages.
+    publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 
-  ![day2](https://github.com/rohitm17/Flutter/blob/master/screenshots/Flutter_day2.png)
-  
-  Tree Structure:
-  
-  ![day2.2](https://github.com/rohitm17/Flutter/blob/master/screenshots/Flutter_day2-2.png)
-  
-DAY 3
+    # The following defines the version and build number for your application.
+    # A version number is three numbers separated by dots, like 1.2.43
+    # followed by an optional build number separated by a +.
+    # Both the version and the builder number may be overridden in flutter
+    # build by specifying --build-name and --build-number, respectively.
+    # In Android, build-name is used as versionName while build-number used as versionCode.
+    # Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+    # In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+    # Read more about iOS versioning at
+    # https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+    version: 1.0.0+1
 
-  ![day3](https://github.com/rohitm17/Flutter/blob/master/screenshots/Flutter_day3.png)
-  
-  
-DAY 4
-
-  ![day4](https://github.com/rohitm17/Flutter/blob/master/screenshots/Flutter_day4.png)
-  
-  
-DAY 5
-
-  ![day5](https://github.com/rohitm17/Flutter/blob/master/screenshots/Flutter_day5.png)
-  
-  
-  Tree Structure:
-
- ![day5](https://github.com/rohitm17/Flutter/blob/master/screenshots/Flutter_day5_tree.png)
- 
-DAY 6
-
-  ![day6](https://github.com/rohitm17/Flutter/blob/master/screenshots/Flutter_day6.png) 
-  
-DAY 7
-
-  ![day7](https://github.com/rohitm17/Flutter/blob/master/screenshots/Flutter_day7.png) 
-  
-DAY 8
-
-  ![day8](https://github.com/rohitm17/Flutter/blob/master/screenshots/Flutter_day8.png) 
-  
-DAY 9
-
-  ![day9](https://github.com/rohitm17/Flutter/blob/master/screenshots/Flutter_day9.png) 
-  
-DAY 10
-
-  ![day10](https://github.com/rohitm17/Flutter/blob/master/screenshots/Flutter_day10.png) 
-  
-  
+    environment:
+      sdk: ">=2.7.0 <3.0.0"
+    dependencies:
+      flutter:
+        sdk: flutter  
+      # The following adds the Cupertino Icons font to your application.
+      cupertino_icons: ^0.1.3
+    dev_dependencies:
+      flutter_test:
+        sdk: flutter  
         
-  
+    flutter:
+
+    # The following line ensures that the Material Icons font is
+    # included with your application, so that you can use the icons in
+    # the material Icons class.
+      uses-material-design: true    
+    
+    # To add assets to your application, add an assets section, like this:
+    # assets:
+    #  - images/a_dot_burr.jpeg
+    #  - images/a_dot_ham.jpeg
+    
+    # To add custom fonts to your application, add a fonts section here,
+    fonts:
+      - family: FreckleFace
+        fonts:
+          - asset: fonts/FreckleFace-Regular.ttf
