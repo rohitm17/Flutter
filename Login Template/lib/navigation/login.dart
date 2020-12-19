@@ -163,15 +163,16 @@ class HomePage extends StatelessWidget
                         ),
                         SizedBox(height: 10,),
                        Text("Forgot Password" , style: TextStyle(color: Color.fromRGBO(143, 148, 251, .6))),
-                        ElevatedButton(
-
-                          child: Text('New User',style: TextStyle(color: Colors.white,fontWeight: FontWeight.bold),),
+                        FlatButton(
                           onPressed: () {
                             Navigator.push(
                               context,
                               MaterialPageRoute(builder: (context) => SignUp()),
                             );
                           },
+
+                          child: Text('New User',style: TextStyle(color: Color.fromRGBO(143, 148, 251, .6))),
+
                         ),
 
                       ],
