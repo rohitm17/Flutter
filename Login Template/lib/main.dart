@@ -19,11 +19,12 @@ class HomePage extends StatelessWidget
 
     return Scaffold(
       backgroundColor: Colors.white,
+      resizeToAvoidBottomPadding: false,
       body: Container(
         child: Column(
           children: [
             Container(
-              height: 400,
+              height: 350,
               decoration: BoxDecoration(
                 image: DecorationImage(
                   image: AssetImage('assets/images/background.png'),
