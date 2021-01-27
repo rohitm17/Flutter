@@ -6,7 +6,7 @@
 
 <h1>Flutter</h1>
 
-![flutterRoadmap](https://github.com/rohitm17/Flutter/blob/master/screenshots/flutter-DART.jpg)
+![flutterRoadmap](https://github.com/rohitm17/Flutter/blob/master/FlutterRoadmap1.png)
 
 <pre>
 Basics of flutter development.
